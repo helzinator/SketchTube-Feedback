@@ -1,7 +1,7 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-title: ''
+about: Report a bug you found on SketchTube!
+title: "[BUG: ]"
 labels: ''
 assignees: ''
 
@@ -10,15 +10,13 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**How I found the bug:**
+1. [First, I...]
+2. [Then...]
+3. [And then...]
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**What behaviour I expected*
+What I expected to happen was...
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
@@ -34,5 +32,4 @@ If applicable, add screenshots to help explain your problem.
  - Browser [e.g. stock browser, safari]
  - Version [e.g. 22]
 
-**Additional context**
-Add any other context about the problem here.
+[Anything else?]
